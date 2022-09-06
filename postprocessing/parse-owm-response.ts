@@ -20,11 +20,11 @@ data.list.forEach((point) => {
     point.weather[0].main,
   )
 
-  Deno.writeTextFile(path.resolve(`./raw-data/${point.name}.csv`), record.join(',') + '\n', { append: true })
+  Deno.writeTextFile(path.resolve(`./data/${point.name}.csv`), record.join(',') + '\n', { append: true })
 })
 
 Deno.writeTextFile(
-  path.resolve(`./raw-data/Summary.csv`),
+  path.resolve(`./data/Summary.csv`),
   `${new Date(data.list[0].dt * 1000).toISOString()},${Math.round((summary_temp * 100) / data.list.length) / 100}`,
   { append: true },
 )
