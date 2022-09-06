@@ -16,4 +16,4 @@ jobs:
         with:
           http_url: http://api.openweathermap.org/data/2.5/group?appid=${{ secrets.OWM_API_KEY }}&id=524901,1850147,2147714,2179537,1273294,1816670,144448,3369157,2988506,2950158,3143244,2643743,5128581,5368361,6173331,3936452,3451189,3833367,2013159,1497337&units=metric
           downloaded_filename: ./raw-data/owmcall.json
-          postprocess: ./postprocessing/parse-covid-stats-data.js
+          postprocess: ./postprocessing/parse-owm-response.ts
