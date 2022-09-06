@@ -1,11 +1,30 @@
-import { readJSON, writeJSON } from 'https://deno.land/x/flat@0.0.15/mod.ts'
+import * as path from 'https://deno.land/std@0.154.0/path/mod.ts'
 
-// The filename is the first invocation argument
-const filename = Deno.args[0] // Same name as downloaded_filename
-const data = await readJSON(filename)
+const filename = path.resolve(Deno.args[0])
+const data = JSON.parse(await Deno.readTextFile(filename))
 
-// Pluck a specific key off
-// and write it out to a different file
-// Careful! any uncaught errors and the workflow will fail, committing nothing.
-const newfile = `post${filename}`
-await writeJSON(newfile, { [Date.now()]: data })
+let summary_temp = 0
+
+data.list.forEach((point) => {
+  const record: string[] = []
+
+  summary_temp += point.main.temp
+
+  record.push(
+    new Date(point.dt * 1000).toISOString(),
+    point.main.temp,
+    point.main.pressure,
+    point.main.humidity,
+    point.wind.speed,
+    point.wind.deg,
+    point.weather[0].main,
+  )
+
+  Deno.writeTextFile(path.resolve(`./raw-data/${point.name}.csv`), record.join(',') + '\n', { append: true })
+})
+
+Deno.writeTextFile(
+  path.resolve(`./raw-data/Summary.csv`),
+  `${new Date(data.list[0].dt * 1000).toISOString()},${Math.round((summary_temp * 100) / data.list.length) / 100}`,
+  { append: true },
+)
