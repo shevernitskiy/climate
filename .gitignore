@@ -1,2 +1,2 @@
-rawdata/
-data/
+rawdata/**.*
+data/**.*
