@@ -1,3 +1,3 @@
-datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
+datetime,temperature
 2022-09-06T07:07:08.000Z,16.49
 2022-09-06T08:09:01.000Z,17.03
