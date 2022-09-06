@@ -24,4 +24,4 @@ data.list.forEach((point) => {
 })
 
 const avg_temp = Math.round((summary_temp * 100) / data.list.length) / 100
-Deno.writeTextFile(path.resolve(`./data/Summary.csv`), `${new Date(Date.now()).toISOString()},${avg_temp}`, { append: true })
+Deno.writeTextFile(path.resolve(`./data/Summary.csv`), `${new Date(Date.now()).toISOString()},${avg_temp}\n`, { append: true })
