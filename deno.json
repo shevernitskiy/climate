@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "emitDecoratorMetadata": true
+  }
+}
