@@ -9,7 +9,7 @@ export function Chart(props: ChartProps) {
 
   return (
     <>
-      <div id={id} />
+      <div id={id} class="flex w-full m-auto items-center justify-center" />
       <script
         id={id + "Data"}
         type="application/json"
@@ -19,14 +19,17 @@ export function Chart(props: ChartProps) {
           __html: `
         var chart = new ApexCharts(document.getElementById("${id}"), {
           chart: {
-            height: 700,
-            width: 1200,
-            fontFamily: 'Commissioner, sans-serif',
+            height: '90%',
+            width: '90%',
+            fontFamily: 'Jost, sans-serif',
             fontSize: '20px',
             type: "scatter",
             foreColor: '#fff',
             toolbar: {
               show: true,
+            },
+            zoom: {
+              autoScaleYaxis: true
             },
             animations: {
               enabled: false,
@@ -45,7 +48,7 @@ export function Chart(props: ChartProps) {
           grid: {
             borderColor: '#90A4AE88',
           },
-          colors: ['#FCCF31', '#17ead9', '#f02fc2'],
+          // colors: ['#FCCF31', '#17ead9', '#f02fc2'],
           noData: {
             text: 'Loading...'
           },
@@ -64,7 +67,10 @@ export function Chart(props: ChartProps) {
           legend: {
             show: true,
             showForSingleSeries: false,
-            position: "bottom",
+            position: "left",
+          },
+          tooltip: {
+
           },
           yaxis: {
             labels: {
@@ -73,8 +79,9 @@ export function Chart(props: ChartProps) {
                 fontSize: '22px',
               }
             },
-            min: 0,
-            max: 25,
+            tooltip: {
+              enabled: true,
+            },
             decimalsInFloat: false,
           },
           xaxis: {
@@ -86,7 +93,7 @@ export function Chart(props: ChartProps) {
               }
             },
             tooltip: {
-              enabled: false,
+              enabled: true,
             },
           },
         });

@@ -8,17 +8,17 @@ export default function Home() {
     <>
       <Head>
         <title>
-          Graph
+          Climate
         </title>
         <link
-          href="https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Jost&display=swap"
           rel="stylesheet"
         />
       </Head>
       <script src="https://cdn.jsdelivr.net/npm/apexcharts" />
       <div
-        class="p-4 flex h-screen justify-center items-center bg-blue-900"
-        style="font-family: 'Commissioner', sans-serif;"
+        class="flex h-screen w-full justify-center items-center bg-gray-900"
+        style="font-family: 'Jost', sans-serif;"
       >
         <Chart label="Summary" />
       </div>
