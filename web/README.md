@@ -1,11 +1,3 @@
-# fresh project
+# Web chart
 
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+https://climate.deno.dev/

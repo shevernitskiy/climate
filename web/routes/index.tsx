@@ -16,6 +16,7 @@ export default function Home() {
         />
       </Head>
       <script src="https://cdn.jsdelivr.net/npm/apexcharts" />
+
       <div
         class="flex h-screen w-full justify-center items-center bg-gray-900"
         style="font-family: 'Jost', sans-serif;"

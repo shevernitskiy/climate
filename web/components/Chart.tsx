@@ -98,14 +98,11 @@ export function Chart(props: ChartProps) {
           },
         });
 
-        Promise.all([chart.render(), fetch('/api/chart_data')]).then((values) => {
+        Promise.all([chart.render(), fetch('/api/chart_data?location=Summary&yearly=true')]).then((values) => {
           return values[1].json()
         }).then(data => {
           console.log(data)
-          chart.updateSeries([{
-            name: data.label,
-            data: data.data
-          }])
+          chart.updateSeries(data)
         })
 
       `,
