@@ -2747,3 +2747,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-10-04T04:09:05.000Z,4.81,999,75,0.51,0,Clear
 2022-10-04T08:09:04.000Z,4.81,997,81,1.03,250,Clear
 2022-10-04T12:09:04.000Z,5.81,995,87,0.51,0,Clear
+2022-10-04T16:09:04.000Z,10.81,992,54,2.57,70,Clear
