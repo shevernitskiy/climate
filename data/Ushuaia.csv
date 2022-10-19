@@ -2838,3 +2838,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-10-19T08:17:30.000Z,2.81,995,70,2.06,280,Clear
 2022-10-19T12:20:46.000Z,7.81,993,53,1.54,0,Clouds
 2022-10-19T15:30:43.000Z,10.81,991,40,7.2,300,Clouds
+2022-10-19T19:43:50.000Z,9.81,989,50,7.72,260,Rain
