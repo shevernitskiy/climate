@@ -2858,3 +2858,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-10-22T20:09:11.000Z,-5.04,991,93,3.89,178,Clouds
 2022-10-23T01:09:12.000Z,-2.54,991,92,3.78,174,Clouds
 2022-10-23T04:09:11.000Z,-2.54,991,92,3.28,164,Clouds
+2022-10-23T08:09:11.000Z,-3.65,990,92,3.01,143,Clouds
