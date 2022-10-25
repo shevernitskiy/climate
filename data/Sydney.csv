@@ -2870,3 +2870,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-10-24T16:09:04.000Z,17.65,1003,95,3.6,170,Drizzle
 2022-10-24T20:09:04.000Z,17.42,1003,95,2.57,300,Fog
 2022-10-25T01:09:05.000Z,23.19,1003,75,3.6,330,Clouds
+2022-10-25T05:09:04.000Z,23.3,1000,69,7.72,40,Thunderstorm
