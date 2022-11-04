@@ -2929,3 +2929,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-11-03T12:09:16.000Z,28.05,1011,44,2.06,310,Smoke
 2022-11-03T16:09:10.000Z,24.05,1013,60,0,0,Smoke
 2022-11-03T20:09:09.000Z,22.05,1013,64,0,0,Smoke
+2022-11-04T01:09:10.000Z,21.05,1013,78,0,0,Smoke
