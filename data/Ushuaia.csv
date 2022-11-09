@@ -2963,3 +2963,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-11-09T08:09:03.000Z,6.81,995,81,6.17,240,Drizzle
 2022-11-09T12:08:09.000Z,5.81,997,81,7.72,250,Clouds
 2022-11-09T16:09:03.000Z,9.81,997,57,9.26,240,Clouds
+2022-11-09T20:09:03.000Z,5.81,1001,70,14.4,230,Clouds
