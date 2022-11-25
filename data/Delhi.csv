@@ -3056,3 +3056,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-11-24T16:09:10.000Z,19.05,1015,48,0,0,Haze
 2022-11-24T20:09:09.000Z,15.05,1016,58,0,0,Haze
 2022-11-25T01:09:10.000Z,13.05,1017,76,0,0,Mist
+2022-11-25T04:09:10.000Z,17.05,1019,63,0,0,Smoke
