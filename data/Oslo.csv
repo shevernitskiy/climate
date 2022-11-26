@@ -3065,3 +3065,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-11-26T08:09:18.000Z,2.63,1024,1,1.25,79,Rain
 2022-11-26T12:09:18.000Z,2.93,1025,1,1.03,35,Clouds
 2022-11-26T16:09:17.000Z,2.98,1026,1,0.95,47,Clouds
+2022-11-26T20:09:17.000Z,3.19,1026,1,0.9,46,Rain
