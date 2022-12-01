@@ -3095,3 +3095,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2022-12-01T08:11:56.000Z,4.57,1025,92,4.63,10,Mist
 2022-12-01T12:06:59.000Z,5.73,1025,87,5.66,10,Clouds
 2022-12-01T16:11:57.000Z,5.71,1025,86,4.12,10,Clouds
+2022-12-01T20:11:59.000Z,5.82,1025,88,5.66,30,Clouds
