@@ -3299,3 +3299,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-01-04T08:12:01.000Z,10.97,1024,94,8.23,200,Drizzle
 2023-01-04T12:06:56.000Z,11.92,1023,93,7.72,220,Drizzle
 2023-01-04T16:11:56.000Z,13.15,1023,94,6.69,240,Drizzle
+2023-01-04T20:11:54.000Z,13.4,1023,92,7.2,220,Drizzle
