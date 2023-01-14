@@ -3357,3 +3357,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-01-14T00:12:07.000Z,8.24,1019,87,3.6,190,Clouds
 2023-01-14T04:12:05.000Z,9.55,1016,92,5.66,220,Clouds
 2023-01-14T08:12:32.000Z,9.89,1012,88,9.26,210,Clouds
+2023-01-14T12:11:59.000Z,11.22,1008,91,9.77,190,Drizzle
