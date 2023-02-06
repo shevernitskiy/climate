@@ -3494,3 +3494,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-02-06T00:09:16.000Z,2.5,1044,89,0,0,Clouds
 2023-02-06T04:09:16.000Z,2.19,1043,91,0,0,Clouds
 2023-02-06T08:09:15.000Z,1.13,1042,93,0,0,Clouds
+2023-02-06T12:09:15.000Z,8.28,1041,71,0.51,0,Clouds
