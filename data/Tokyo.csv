@@ -3569,3 +3569,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-02-18T12:09:14.000Z,10.08,1019,78,1.54,360,Clouds
 2023-02-18T16:09:13.000Z,9.66,1014,69,2.06,260,Clouds
 2023-02-18T20:09:14.000Z,9.78,1009,66,3.09,20,Clouds
+2023-02-19T01:09:13.000Z,10.86,1004,56,2.57,0,Squall
