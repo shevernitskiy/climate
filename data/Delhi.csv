@@ -3627,3 +3627,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-02-28T04:09:10.000Z,22.05,1020,60,2.06,270,Smoke
 2023-02-28T08:09:11.000Z,29.05,1019,28,3.09,300,Haze
 2023-02-28T12:09:10.000Z,28.05,1017,24,4.63,20,Haze
+2023-02-28T16:09:10.000Z,23.05,1018,40,2.06,20,Thunderstorm
