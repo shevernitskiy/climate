@@ -3631,3 +3631,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-02-28T20:09:09.000Z,19.05,1018,55,2.06,20,Haze
 2023-03-01T01:09:10.000Z,20.05,1020,49,4.12,300,Thunderstorm
 2023-03-01T04:09:09.000Z,23.05,1021,38,3.09,30,Haze
+2023-03-01T08:09:10.000Z,26.05,1020,31,2.57,60,Haze
