@@ -3715,3 +3715,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-03-15T00:12:09.000Z,1,1003,91,1.79,226,Clear
 2023-03-15T04:12:01.000Z,0.42,1005,98,0.89,264,Clouds
 2023-03-15T08:12:32.000Z,0.52,1005,98,0.89,264,Clouds
+2023-03-15T12:12:30.000Z,4.22,1013,55,7.5,277,Clouds
