@@ -4007,3 +4007,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-05-02T16:09:14.000Z,-0.02,1007,63,2,340,Clear
 2023-05-02T20:09:15.000Z,-0.02,1008,63,5,340,Clear
 2023-05-03T00:09:16.000Z,2.76,1009,59,6,360,Clear
+2023-05-03T04:09:14.000Z,6.98,1009,53,6,350,Clear
