@@ -4349,3 +4349,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-06-28T16:09:16.000Z,20.98,998,68,2,180,Thunderstorm
 2023-06-28T19:16:05.000Z,19.98,998,82,2,320,Clouds
 2023-06-29T01:09:18.000Z,25.54,999,61,3,120,Clouds
+2023-06-29T04:09:16.000Z,25.98,999,61,1,210,Thunderstorm
