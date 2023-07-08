@@ -4408,3 +4408,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-07-08T08:09:25.000Z,28.05,1003,100,2.57,60,Drizzle
 2023-07-08T12:09:16.000Z,27.05,1001,100,3.09,60,Thunderstorm
 2023-07-08T16:09:11.000Z,27.05,1002,100,1.54,70,Drizzle
+2023-07-08T19:22:40.000Z,27.05,1002,100,1.54,110,Mist
