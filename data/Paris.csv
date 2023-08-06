@@ -4580,3 +4580,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-08-06T00:14:05.000Z,14.42,1010,93,9.26,280,Drizzle
 2023-08-06T03:12:52.000Z,13.89,1012,88,7.2,290,Clouds
 2023-08-06T07:19:14.000Z,14.76,1015,85,7.72,300,Clouds
+2023-08-06T12:14:18.000Z,19.21,1017,55,8.23,300,Clouds
