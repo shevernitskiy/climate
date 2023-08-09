@@ -4594,3 +4594,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-08-08T12:09:17.000Z,16.65,1017,63,1,150,Clear
 2023-08-08T16:09:16.000Z,9.98,1018,81,1,20,Clear
 2023-08-08T20:09:21.000Z,6.98,1018,87,2,20,Clear
+2023-08-09T00:09:16.000Z,13.98,1019,77,2,30,Smoke
