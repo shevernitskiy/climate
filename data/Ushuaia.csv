@@ -4673,3 +4673,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-08-21T15:16:06.000Z,5.81,986,70,2.06,160,Rain
 2023-08-21T19:25:49.000Z,6.81,985,65,5.14,20,Rain
 2023-08-22T00:18:13.000Z,3.81,984,87,1.03,0,Drizzle
+2023-08-22T03:14:41.000Z,3.81,983,87,4.12,50,Drizzle
