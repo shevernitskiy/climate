@@ -5004,3 +5004,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-10-16T04:09:16.000Z,27.05,1014,50,3.6,280,Smoke
 2023-10-16T08:09:17.000Z,28.05,1012,44,4.12,30,Haze
 2023-10-16T12:09:18.000Z,25.05,1012,44,4.12,50,Haze
+2023-10-16T16:09:16.000Z,24.05,1014,46,3.6,100,Thunderstorm
