@@ -5087,3 +5087,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-10-30T00:09:02.000Z,18.97,1012,55,0,0,Smoke
 2023-10-30T04:09:02.000Z,26.46,1015,23,1.78,216,Clouds
 2023-10-30T08:09:03.000Z,31.97,1014,27,2.06,270,Clouds
+2023-10-30T12:09:03.000Z,34.97,1012,23,2.06,250,Clouds
