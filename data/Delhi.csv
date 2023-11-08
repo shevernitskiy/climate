@@ -5139,3 +5139,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-11-07T16:09:15.000Z,23.05,1015,60,0,0,Smoke
 2023-11-07T20:09:17.000Z,21.05,1014,78,0,0,Mist
 2023-11-08T00:09:16.000Z,19.05,1014,88,0,0,Mist
+2023-11-08T04:09:18.000Z,22.05,1016,68,0,0,Smoke
