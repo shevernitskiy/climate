@@ -5212,3 +5212,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-11-19T20:05:05.000Z,-7.24,1021,54,2.06,150,Clouds
 2023-11-20T00:05:03.000Z,-7.43,1020,58,1.53,99,Clouds
 2023-11-20T04:07:02.000Z,-7.3,1020,61,2.39,97,Clouds
+2023-11-20T08:08:01.000Z,-7.3,1018,63,3.34,70,Clouds
