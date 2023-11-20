@@ -5214,3 +5214,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-11-20T04:09:01.000Z,18.97,1008,100,6.17,140,Thunderstorm
 2023-11-20T08:09:02.000Z,19.97,1007,94,8.23,140,Thunderstorm
 2023-11-20T12:09:03.000Z,21.97,1005,94,5.14,170,Mist
+2023-11-20T16:09:03.000Z,19.97,1009,83,3.09,260,Mist
