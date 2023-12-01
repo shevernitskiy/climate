@@ -5278,3 +5278,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2023-11-30T19:15:39.000Z,4.86,999,86,3.6,70,Clear
 2023-12-01T00:12:20.000Z,4.51,1001,90,3.6,40,Drizzle
 2023-12-01T04:11:51.000Z,3.82,1001,90,4.12,30,Clouds
+2023-12-01T08:13:04.000Z,3.27,1003,87,4.63,40,Mist
