@@ -5502,3 +5502,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-01-07T04:09:19.000Z,11.18,1006,37,4.63,50,Clouds
 2024-01-07T08:09:21.000Z,9.45,1006,43,2.57,120,Rain
 2024-01-07T12:09:21.000Z,7.9,1006,58,3.6,120,Clouds
+2024-01-07T16:09:20.000Z,5.5,1008,56,8.75,320,Clouds
