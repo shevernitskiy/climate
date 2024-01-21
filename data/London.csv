@@ -5583,3 +5583,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-01-20T20:09:24.000Z,4.46,1019,68,4.02,229,Clouds
 2024-01-21T00:09:18.000Z,5.17,1015,62,4.12,190,Clouds
 2024-01-21T04:09:17.000Z,4.66,1011,88,6.26,231,Clouds
+2024-01-21T08:09:21.000Z,8.34,1011,91,6.69,220,Clouds
