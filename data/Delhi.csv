@@ -5826,3 +5826,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-03-01T04:09:12.000Z,22.05,1017,49,0,0,Haze
 2024-03-01T08:09:15.000Z,27.84,1015,26,2.57,90,Haze
 2024-03-01T12:09:12.000Z,27.84,1012,24,4.12,120,Haze
+2024-03-01T16:09:11.000Z,22.84,1013,46,3.09,130,Thunderstorm

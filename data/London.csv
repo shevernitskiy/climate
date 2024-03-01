@@ -5825,3 +5825,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-03-01T04:09:18.000Z,3.15,998,92,3.09,150,Clouds
 2024-03-01T08:09:26.000Z,4.7,990,92,8.75,160,Rain
 2024-03-01T12:09:18.000Z,6.41,990,84,8.23,220,Clouds
+2024-03-01T16:09:16.000Z,8.36,991,66,5.14,200,Clouds
