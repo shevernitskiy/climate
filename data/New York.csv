@@ -5838,3 +5838,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-03-03T07:15:43.000Z,8.41,1019,93,4.12,310,Drizzle
 2024-03-03T12:14:43.000Z,8.94,1022,89,3.6,290,Drizzle
 2024-03-03T15:15:01.000Z,13.12,1023,73,4.63,300,Clouds
+2024-03-03T19:15:00.000Z,18.57,1022,54,4.12,310,Smoke
