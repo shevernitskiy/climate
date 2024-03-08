@@ -5865,3 +5865,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-03-07T20:09:22.000Z,-27.8,1018,75,2,260,Clear
 2024-03-08T00:09:24.000Z,-28.02,1018,76,0,0,Clear
 2024-03-08T04:09:15.000Z,-20.02,1017,65,1,140,Clear
+2024-03-08T08:09:22.000Z,-17.8,1016,70,1,70,Clear
