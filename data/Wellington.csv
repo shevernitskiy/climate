@@ -6000,3 +6000,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-03-30T04:09:15.000Z,14,1016,72,8.23,170,Clouds
 2024-03-30T08:09:17.000Z,11.85,1016,93,7.2,150,Clouds
 2024-03-30T12:09:17.000Z,12.15,1016,94,8.23,160,Clouds
+2024-03-30T16:09:16.000Z,11.75,1014,84,9.26,170,Clouds
