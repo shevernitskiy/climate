@@ -6070,3 +6070,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-04-11T08:09:22.000Z,6.98,998,42,3,160,Clear
 2024-04-11T12:09:18.000Z,1.98,998,55,2,200,Clear
 2024-04-11T16:09:16.000Z,-2.02,998,69,2,290,Clear
+2024-04-11T20:09:22.000Z,-0.02,998,69,1,60,Snow
