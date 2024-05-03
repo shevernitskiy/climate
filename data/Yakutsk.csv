@@ -6198,3 +6198,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-05-02T20:09:23.000Z,0.98,1015,51,3,360,Clear
 2024-05-03T00:09:17.000Z,2.98,1016,48,3,360,Clouds
 2024-05-03T04:09:15.000Z,3.98,1017,60,4,20,Clouds
+2024-05-03T08:09:23.000Z,4.98,1018,56,1,80,Clouds
