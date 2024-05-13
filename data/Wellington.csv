@@ -6261,3 +6261,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-05-13T04:09:28.000Z,13.39,1023,66,3.6,200,Clouds
 2024-05-13T08:09:27.000Z,9.05,1025,86,1.54,180,Clouds
 2024-05-13T12:09:27.000Z,8.09,1025,89,1.03,70,Clouds
+2024-05-13T16:09:33.000Z,7.44,1025,94,2.57,50,Clouds
