@@ -6257,3 +6257,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-05-12T16:09:30.000Z,-0.02,1007,69,2,360,Clear
 2024-05-12T20:09:31.000Z,-2.02,1006,80,1,360,Clear
 2024-05-13T00:09:26.000Z,6.98,1005,53,1,20,Clear
+2024-05-13T04:09:27.000Z,9.98,1004,34,3,70,Rain
