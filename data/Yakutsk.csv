@@ -6420,3 +6420,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-06-08T20:09:28.000Z,9.98,1002,62,1,280,Clear
 2024-06-09T00:09:26.000Z,17.98,1003,55,3,80,Clear
 2024-06-09T04:09:22.000Z,23.98,1002,22,2,130,Clear
+2024-06-09T08:09:22.000Z,24.98,1001,18,5,50,Clear
