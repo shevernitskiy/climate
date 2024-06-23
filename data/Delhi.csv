@@ -6507,3 +6507,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-06-23T04:09:11.000Z,34.05,1003,52,2.57,110,Haze
 2024-06-23T08:09:16.000Z,38.05,1001,41,3.09,90,Haze
 2024-06-23T12:09:14.000Z,35.05,997,59,3.09,60,Thunderstorm
+2024-06-23T16:09:15.000Z,34.05,999,52,1.54,160,Haze
