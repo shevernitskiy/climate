@@ -6631,3 +6631,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-07-14T00:09:22.000Z,24.98,1007,57,1,30,Clear
 2024-07-14T04:09:19.000Z,29.98,1006,42,5,10,Clear
 2024-07-14T08:09:24.000Z,30.98,1003,40,6,30,Clear
+2024-07-14T12:09:22.000Z,20.98,1006,68,7,200,Thunderstorm
