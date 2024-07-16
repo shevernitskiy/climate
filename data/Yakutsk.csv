@@ -6643,3 +6643,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-07-16T00:09:22.000Z,22.98,1004,60,3,160,Smoke
 2024-07-16T04:09:18.000Z,26.98,1002,47,3,80,Smoke
 2024-07-16T08:09:24.000Z,26.98,1002,44,4,170,Clouds
+2024-07-16T12:09:24.000Z,21.98,1002,68,3,170,Rain
