@@ -6641,3 +6641,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-07-15T16:09:17.000Z,17.98,1003,77,1,310,Smoke
 2024-07-15T20:09:24.000Z,15.98,1003,82,1,310,Smoke
 2024-07-16T00:09:22.000Z,22.98,1004,60,3,160,Smoke
+2024-07-16T04:09:18.000Z,26.98,1002,47,3,80,Smoke
