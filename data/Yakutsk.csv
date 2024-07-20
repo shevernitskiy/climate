@@ -6664,3 +6664,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-07-19T16:09:17.000Z,18.98,1000,77,3,330,Clouds
 2024-07-19T20:09:20.000Z,16.98,1000,72,2,340,Clouds
 2024-07-20T00:09:19.000Z,16.98,1000,77,2,310,Clouds
+2024-07-20T04:09:16.000Z,18.98,999,77,3,350,Rain
