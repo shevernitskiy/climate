@@ -6746,3 +6746,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-08-02T07:25:26.000Z,1.81,996,93,2.06,60,Clouds
 2024-08-02T12:21:27.000Z,2.81,996,93,5.14,90,Clouds
 2024-08-02T15:20:16.000Z,2.81,996,93,5.14,90,Rain
+2024-08-02T19:35:42.000Z,2.81,994,87,4.12,80,Drizzle
