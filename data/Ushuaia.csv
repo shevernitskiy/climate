@@ -6748,3 +6748,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-08-02T15:20:16.000Z,2.81,996,93,5.14,90,Rain
 2024-08-02T19:35:42.000Z,2.81,994,87,4.12,80,Drizzle
 2024-08-03T00:20:51.000Z,1.81,994,80,4.12,120,Drizzle
+2024-08-03T04:15:36.000Z,-0.38,996,94,3.39,159,Snow
