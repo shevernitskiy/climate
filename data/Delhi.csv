@@ -6882,3 +6882,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-08-24T20:09:15.000Z,29.05,1003,89,3.6,60,Thunderstorm
 2024-08-25T00:09:16.000Z,26.05,1002,100,2.06,30,Mist
 2024-08-25T04:09:15.000Z,30.05,1003,89,3.6,90,Mist
+2024-08-25T08:09:15.000Z,33.05,1000,66,3.09,90,Haze
