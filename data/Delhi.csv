@@ -6979,3 +6979,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-09-10T00:09:13.000Z,27.05,1001,94,0,0,Mist
 2024-09-10T04:09:14.000Z,30.05,1003,84,1.54,80,Mist
 2024-09-10T08:09:18.000Z,34.05,999,59,2.06,140,Haze
+2024-09-10T12:09:18.000Z,26.05,999,100,3.09,320,Thunderstorm
