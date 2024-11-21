@@ -7411,3 +7411,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-11-21T08:13:57.000Z,0.77,994,99,4.37,213,Snow
 2024-11-21T12:13:31.000Z,1.9,991,82,5.89,220,Clouds
 2024-11-21T16:12:36.000Z,1.07,989,97,2.1,190,Clouds
+2024-11-21T20:16:34.000Z,0.76,989,98,1.76,347,Clouds
