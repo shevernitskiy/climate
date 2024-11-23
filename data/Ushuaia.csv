@@ -7420,3 +7420,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-11-22T20:16:45.000Z,10.81,997,71,5.66,110,Thunderstorm
 2024-11-23T00:16:33.000Z,7.81,996,87,4.63,90,Rain
 2024-11-23T04:16:42.000Z,6.17,991,97,1.15,326,Clouds
+2024-11-23T08:17:45.000Z,5.81,992,81,9.26,250,Rain
