@@ -7618,3 +7618,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-12-25T16:14:30.000Z,9.58,1034,96,2.06,50,Clouds
 2024-12-25T19:11:14.000Z,9.34,1035,96,2.57,120,Drizzle
 2024-12-26T00:15:10.000Z,8.54,1035,97,2.06,70,Clouds
+2024-12-26T04:12:44.000Z,7.24,1034,99,3.6,70,Fog
