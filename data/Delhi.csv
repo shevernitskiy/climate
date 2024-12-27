@@ -7624,3 +7624,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2024-12-26T16:09:22.000Z,16.05,1020,67,0,0,Haze
 2024-12-26T20:09:22.000Z,15.05,1020,77,0,0,Mist
 2024-12-27T01:09:23.000Z,14.05,1019,94,2.57,60,Drizzle
+2024-12-27T04:09:13.000Z,14.05,1021,100,3.09,20,Thunderstorm
