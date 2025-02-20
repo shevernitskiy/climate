@@ -7953,3 +7953,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-02-19T20:09:15.000Z,18.05,1012,68,1.03,0,Thunderstorm
 2025-02-20T01:09:11.000Z,16.05,1013,100,3.09,80,Thunderstorm
 2025-02-20T04:09:10.000Z,20.05,1016,77,2.57,80,Mist
+2025-02-20T08:09:14.000Z,25.05,1014,44,5.14,120,Haze
