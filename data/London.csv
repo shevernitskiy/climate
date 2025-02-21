@@ -7958,3 +7958,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-02-20T20:09:19.000Z,12.47,1015,91,5.14,210,Clouds
 2025-02-21T01:09:17.000Z,12.3,1015,90,4.63,200,Clouds
 2025-02-21T04:09:17.000Z,12.08,1013,91,4.12,180,Drizzle
+2025-02-21T08:09:17.000Z,12.3,1011,90,6.17,170,Clouds
