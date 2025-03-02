@@ -8012,3 +8012,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-03-01T20:09:02.000Z,13.81,999,38,1.54,160,Rain
 2025-03-02T01:09:02.000Z,8.81,1001,87,3.6,130,Clouds
 2025-03-02T04:09:02.000Z,5.81,1001,100,1.03,0,Clouds
+2025-03-02T08:09:03.000Z,5.81,1000,100,0,0,Clouds
