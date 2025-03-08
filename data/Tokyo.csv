@@ -8049,3 +8049,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-03-07T20:09:25.000Z,2.37,1028,48,5.14,20,Clouds
 2025-03-08T00:09:14.000Z,3.82,1029,43,4.12,10,Clouds
 2025-03-08T04:09:13.000Z,5.62,1028,50,4.12,30,Clouds
+2025-03-08T08:09:20.000Z,4.21,1026,77,3.6,20,Rain
