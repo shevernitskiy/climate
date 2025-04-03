@@ -8208,3 +8208,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-04-03T08:09:22.000Z,16.81,1013,94,7.72,20,Drizzle
 2025-04-03T12:09:24.000Z,18.81,1011,77,7.2,20,Clouds
 2025-04-03T16:09:17.000Z,16.81,1007,94,8.23,20,Drizzle
+2025-04-03T20:09:21.000Z,17.81,1005,94,9.77,10,Rain
