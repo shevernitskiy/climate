@@ -8247,3 +8247,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-04-10T01:09:03.000Z,25.15,1005,21,3.14,41,Clear
 2025-04-10T04:09:02.000Z,23.97,1005,41,1.03,130,Clear
 2025-04-10T08:09:03.000Z,36.97,1004,20,3.09,170,Rain
+2025-04-10T12:09:03.000Z,37.97,1001,16,4.12,180,Thunderstorm
