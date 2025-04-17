@@ -8287,3 +8287,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-04-16T20:09:16.000Z,-8.02,1010,67,2,330,Clear
 2025-04-17T01:09:13.000Z,-2.02,1009,46,0,0,Snow
 2025-04-17T04:09:12.000Z,1.98,1010,44,5,280,Rain
+2025-04-17T08:09:16.000Z,0.98,1013,51,5,310,Clouds
