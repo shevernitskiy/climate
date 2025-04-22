@@ -8315,3 +8315,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-04-21T12:09:20.000Z,0.98,1005,93,2,150,Clouds
 2025-04-21T16:09:14.000Z,0.98,1007,93,2,180,Clouds
 2025-04-21T20:09:15.000Z,0.98,1005,86,3,230,Snow
+2025-04-22T01:09:12.000Z,-0.02,1001,93,2,320,Snow
