@@ -8325,3 +8325,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-04-23T04:09:14.000Z,2.98,1014,60,2,160,Clear
 2025-04-23T08:09:17.000Z,4.98,1015,52,2,80,Clear
 2025-04-23T12:09:20.000Z,1.98,1016,60,3,310,Clear
+2025-04-23T16:09:14.000Z,0.98,1017,64,4,310,Clear
