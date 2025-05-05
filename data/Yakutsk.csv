@@ -8398,3 +8398,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-05-05T08:09:15.000Z,10.98,1009,25,4,310,Clear
 2025-05-05T12:09:16.000Z,5.98,1010,42,3,300,Clear
 2025-05-05T16:09:14.000Z,0.98,1009,55,4,300,Clear
+2025-05-05T20:09:20.000Z,-0.02,1009,59,1,360,Clear
