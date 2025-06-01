@@ -8556,3 +8556,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-05-31T16:09:09.000Z,32.05,997,40,2.06,140,Haze
 2025-05-31T20:09:10.000Z,28.05,998,51,1.03,70,Thunderstorm
 2025-06-01T01:09:09.000Z,29.05,999,51,2.06,180,Haze
+2025-06-01T04:09:10.000Z,32.05,1001,48,3.6,250,Haze
