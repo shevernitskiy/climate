@@ -8612,3 +8612,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-06-10T01:09:16.000Z,9.75,1016,84,2.06,150,Clouds
 2025-06-10T04:09:15.000Z,9.2,1013,89,1.03,70,Clouds
 2025-06-10T08:09:25.000Z,7.96,1008,88,2.06,40,Clouds
+2025-06-10T12:09:22.000Z,9.77,1004,88,0.51,200,Rain
