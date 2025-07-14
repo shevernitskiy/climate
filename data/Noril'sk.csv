@@ -8811,3 +8811,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-07-13T12:09:12.000Z,24.61,998,47,2.42,17,Clouds
 2025-07-13T16:09:11.000Z,21.04,995,61,1.61,338,Clouds
 2025-07-13T20:09:17.000Z,18.77,993,67,0.76,7,Clouds
+2025-07-14T01:09:10.000Z,16.49,990,87,1.8,328,Rain
