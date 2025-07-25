@@ -8881,3 +8881,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-07-25T08:14:31.000Z,24.69,1015,74,4.12,220,Clear
 2025-07-25T12:14:11.000Z,26.22,1015,74,5.14,250,Clear
 2025-07-25T16:14:04.000Z,33.33,1013,57,4.63,260,Clear
+2025-07-25T20:14:25.000Z,31.59,1011,59,19.03,310,Thunderstorm
