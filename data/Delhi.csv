@@ -8930,3 +8930,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-08-02T08:09:09.000Z,31.05,1001,70,5.14,260,Haze
 2025-08-02T12:09:09.000Z,31.05,999,74,5.14,240,Haze
 2025-08-02T16:09:09.000Z,27.05,1002,94,1.03,0,Drizzle
+2025-08-02T20:09:09.000Z,27.05,1001,100,2.57,240,Thunderstorm
