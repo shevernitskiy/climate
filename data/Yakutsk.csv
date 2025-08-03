@@ -8932,3 +8932,4 @@ datetime,temperature,pressure,humidity,wind_speed,wind_deg,summary
 2025-08-02T20:09:13.000Z,14.98,1004,88,3,290,Clouds
 2025-08-03T01:09:12.000Z,19.98,1004,77,2,150,Clouds
 2025-08-03T04:09:13.000Z,23.98,1004,64,3,150,Clouds
+2025-08-03T08:09:13.000Z,22.98,1004,56,0,0,Thunderstorm
